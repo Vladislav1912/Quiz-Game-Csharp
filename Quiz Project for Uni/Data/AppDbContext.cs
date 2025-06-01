@@ -11,6 +11,7 @@ namespace Quiz_Project_for_Uni.Data
      public class AppDbContext : DbContext 
     {
         public DbSet<Person> Persons { get; set; }
+        public DbSet<Quiz> Quizes { get; set; }
 
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         {

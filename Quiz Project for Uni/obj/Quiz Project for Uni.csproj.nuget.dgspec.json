@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\mrnik\\source\\repos\\Quiz Project for Uni\\Quiz Project for Uni\\Quiz Project for Uni.csproj": {}
+    "C:\\Users\\mrnik\\source\\repos\\QuizProjectforUni\\Quiz Project for Uni\\Quiz Project for Uni.csproj": {}
   },
   "projects": {
-    "C:\\Users\\mrnik\\source\\repos\\Quiz Project for Uni\\Quiz Project for Uni\\Quiz Project for Uni.csproj": {
+    "C:\\Users\\mrnik\\source\\repos\\QuizProjectforUni\\Quiz Project for Uni\\Quiz Project for Uni.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\mrnik\\source\\repos\\Quiz Project for Uni\\Quiz Project for Uni\\Quiz Project for Uni.csproj",
+        "projectUniqueName": "C:\\Users\\mrnik\\source\\repos\\QuizProjectforUni\\Quiz Project for Uni\\Quiz Project for Uni.csproj",
         "projectName": "Quiz Project for Uni",
-        "projectPath": "C:\\Users\\mrnik\\source\\repos\\Quiz Project for Uni\\Quiz Project for Uni\\Quiz Project for Uni.csproj",
+        "projectPath": "C:\\Users\\mrnik\\source\\repos\\QuizProjectforUni\\Quiz Project for Uni\\Quiz Project for Uni.csproj",
         "packagesPath": "C:\\Users\\mrnik\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\mrnik\\source\\repos\\Quiz Project for Uni\\Quiz Project for Uni\\obj\\",
+        "outputPath": "C:\\Users\\mrnik\\source\\repos\\QuizProjectforUni\\Quiz Project for Uni\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\mrnik\\AppData\\Roaming\\NuGet\\NuGet.Config",

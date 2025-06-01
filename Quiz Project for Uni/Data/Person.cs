@@ -14,6 +14,8 @@ namespace Quiz_Project_for_Uni.Data
         public string Name { get; set; }
         [EmailAddress]
         public string Email { get; set; }
-        public string Password { get; set; }
+
+        public byte[] PasswordHash { get; set; } = Array.Empty<byte>();
+        public byte[] PasswordSalt { get; set; } = Array.Empty<byte>();
     }
 }
