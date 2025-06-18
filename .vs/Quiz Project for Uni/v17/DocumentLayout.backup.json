@@ -3,28 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\mrnik\\source\\repos\\QuizProjectforUni\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{BD73C97D-74AE-4232-8E6C-29D7FA5F665E}|Quiz Project for Uni\\Quiz Project for Uni.csproj|c:\\users\\mrnik\\source\\repos\\quizprojectforuni\\quiz project for uni\\addquiz.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BD73C97D-74AE-4232-8E6C-29D7FA5F665E}|Quiz Project for Uni\\Quiz Project for Uni.csproj|solutionrelative:quiz project for uni\\addquiz.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{BD73C97D-74AE-4232-8E6C-29D7FA5F665E}|Quiz Project for Uni\\Quiz Project for Uni.csproj|c:\\users\\mrnik\\source\\repos\\quizprojectforuni\\quiz project for uni\\admintable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD73C97D-74AE-4232-8E6C-29D7FA5F665E}|Quiz Project for Uni\\Quiz Project for Uni.csproj|solutionrelative:quiz project for uni\\admintable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BD73C97D-74AE-4232-8E6C-29D7FA5F665E}|Quiz Project for Uni\\Quiz Project for Uni.csproj|c:\\users\\mrnik\\source\\repos\\quizprojectforuni\\quiz project for uni\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BD73C97D-74AE-4232-8E6C-29D7FA5F665E}|Quiz Project for Uni\\Quiz Project for Uni.csproj|solutionrelative:quiz project for uni\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BD73C97D-74AE-4232-8E6C-29D7FA5F665E}|Quiz Project for Uni\\Quiz Project for Uni.csproj|c:\\users\\mrnik\\source\\repos\\quizprojectforuni\\quiz project for uni\\data\\quiz.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BD73C97D-74AE-4232-8E6C-29D7FA5F665E}|Quiz Project for Uni\\Quiz Project for Uni.csproj|solutionrelative:quiz project for uni\\data\\quiz.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BD73C97D-74AE-4232-8E6C-29D7FA5F665E}|Quiz Project for Uni\\Quiz Project for Uni.csproj|C:\\Users\\mrnik\\source\\repos\\QuizProjectforUni\\quiz project for uni\\addquiz.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{BD73C97D-74AE-4232-8E6C-29D7FA5F665E}|Quiz Project for Uni\\Quiz Project for Uni.csproj|solutionrelative:quiz project for uni\\addquiz.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{BD73C97D-74AE-4232-8E6C-29D7FA5F665E}|Quiz Project for Uni\\Quiz Project for Uni.csproj|C:\\Users\\mrnik\\source\\repos\\QuizProjectforUni\\quiz project for uni\\admintable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{BD73C97D-74AE-4232-8E6C-29D7FA5F665E}|Quiz Project for Uni\\Quiz Project for Uni.csproj|solutionrelative:quiz project for uni\\admintable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
       "AbsoluteMoniker": "D:0:0:{BD73C97D-74AE-4232-8E6C-29D7FA5F665E}|Quiz Project for Uni\\Quiz Project for Uni.csproj|c:\\users\\mrnik\\source\\repos\\quizprojectforuni\\quiz project for uni\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BD73C97D-74AE-4232-8E6C-29D7FA5F665E}|Quiz Project for Uni\\Quiz Project for Uni.csproj|solutionrelative:quiz project for uni\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BD73C97D-74AE-4232-8E6C-29D7FA5F665E}|Quiz Project for Uni\\Quiz Project for Uni.csproj|c:\\users\\mrnik\\source\\repos\\quizprojectforuni\\quiz project for uni\\data\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BD73C97D-74AE-4232-8E6C-29D7FA5F665E}|Quiz Project for Uni\\Quiz Project for Uni.csproj|solutionrelative:quiz project for uni\\data\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{BD73C97D-74AE-4232-8E6C-29D7FA5F665E}|Quiz Project for Uni\\Quiz Project for Uni.csproj|C:\\Users\\mrnik\\source\\repos\\QuizProjectforUni\\quiz project for uni\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
@@ -35,8 +23,28 @@
       "RelativeMoniker": "D:0:0:{BD73C97D-74AE-4232-8E6C-29D7FA5F665E}|Quiz Project for Uni\\Quiz Project for Uni.csproj|solutionrelative:quiz project for uni\\quizformat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{BD73C97D-74AE-4232-8E6C-29D7FA5F665E}|Quiz Project for Uni\\Quiz Project for Uni.csproj|C:\\Users\\mrnik\\source\\repos\\QuizProjectforUni\\quiz project for uni\\addquiz.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{BD73C97D-74AE-4232-8E6C-29D7FA5F665E}|Quiz Project for Uni\\Quiz Project for Uni.csproj|solutionrelative:quiz project for uni\\addquiz.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD73C97D-74AE-4232-8E6C-29D7FA5F665E}|Quiz Project for Uni\\Quiz Project for Uni.csproj|c:\\users\\mrnik\\source\\repos\\quizprojectforuni\\quiz project for uni\\data\\quiz.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD73C97D-74AE-4232-8E6C-29D7FA5F665E}|Quiz Project for Uni\\Quiz Project for Uni.csproj|solutionrelative:quiz project for uni\\data\\quiz.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD73C97D-74AE-4232-8E6C-29D7FA5F665E}|Quiz Project for Uni\\Quiz Project for Uni.csproj|c:\\users\\mrnik\\source\\repos\\quizprojectforuni\\quiz project for uni\\addquiz.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD73C97D-74AE-4232-8E6C-29D7FA5F665E}|Quiz Project for Uni\\Quiz Project for Uni.csproj|solutionrelative:quiz project for uni\\addquiz.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{BD73C97D-74AE-4232-8E6C-29D7FA5F665E}|Quiz Project for Uni\\Quiz Project for Uni.csproj|c:\\users\\mrnik\\source\\repos\\quizprojectforuni\\quiz project for uni\\quizformat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BD73C97D-74AE-4232-8E6C-29D7FA5F665E}|Quiz Project for Uni\\Quiz Project for Uni.csproj|solutionrelative:quiz project for uni\\quizformat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD73C97D-74AE-4232-8E6C-29D7FA5F665E}|Quiz Project for Uni\\Quiz Project for Uni.csproj|c:\\users\\mrnik\\source\\repos\\quizprojectforuni\\quiz project for uni\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD73C97D-74AE-4232-8E6C-29D7FA5F665E}|Quiz Project for Uni\\Quiz Project for Uni.csproj|solutionrelative:quiz project for uni\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD73C97D-74AE-4232-8E6C-29D7FA5F665E}|Quiz Project for Uni\\Quiz Project for Uni.csproj|c:\\users\\mrnik\\source\\repos\\quizprojectforuni\\quiz project for uni\\data\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD73C97D-74AE-4232-8E6C-29D7FA5F665E}|Quiz Project for Uni\\Quiz Project for Uni.csproj|solutionrelative:quiz project for uni\\data\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{BD73C97D-74AE-4232-8E6C-29D7FA5F665E}|Quiz Project for Uni\\Quiz Project for Uni.csproj|c:\\users\\mrnik\\source\\repos\\quizprojectforuni\\quiz project for uni\\register.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -54,8 +62,34 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AdminTable.cs",
+              "DocumentMoniker": "C:\\Users\\mrnik\\source\\repos\\QuizProjectforUni\\Quiz Project for Uni\\AdminTable.cs",
+              "RelativeDocumentMoniker": "Quiz Project for Uni\\AdminTable.cs",
+              "ToolTip": "C:\\Users\\mrnik\\source\\repos\\QuizProjectforUni\\Quiz Project for Uni\\AdminTable.cs",
+              "RelativeToolTip": "Quiz Project for Uni\\AdminTable.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "OverriddenGroupName": "Quiz Project for Uni",
+              "WhenOpened": "2025-06-01T11:59:18.948Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AdminTable.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\mrnik\\source\\repos\\QuizProjectforUni\\Quiz Project for Uni\\AdminTable.cs",
+              "RelativeDocumentMoniker": "Quiz Project for Uni\\AdminTable.cs",
+              "ToolTip": "C:\\Users\\mrnik\\source\\repos\\QuizProjectforUni\\Quiz Project for Uni\\AdminTable.cs [Design]",
+              "RelativeToolTip": "Quiz Project for Uni\\AdminTable.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-01T11:48:13.666Z",
+              "EditorCaption": " [Design]"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 8,
@@ -71,61 +105,64 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 7,
               "Title": "AddQuiz.cs",
               "DocumentMoniker": "C:\\Users\\mrnik\\source\\repos\\QuizProjectforUni\\Quiz Project for Uni\\AddQuiz.cs",
               "RelativeDocumentMoniker": "Quiz Project for Uni\\AddQuiz.cs",
               "ToolTip": "C:\\Users\\mrnik\\source\\repos\\QuizProjectforUni\\Quiz Project for Uni\\AddQuiz.cs",
               "RelativeToolTip": "Quiz Project for Uni\\AddQuiz.cs",
-              "ViewState": "AgIAABkAAAAAAAAAAAAgwCsAAAAZAAAAAAAAAA==",
+              "ViewState": "AgIAABMAAAAAAAAAAAA1wDkAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-14T10:29:22.902Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 6,
               "Title": "Quiz.cs",
               "DocumentMoniker": "C:\\Users\\mrnik\\source\\repos\\QuizProjectforUni\\Quiz Project for Uni\\Data\\Quiz.cs",
               "RelativeDocumentMoniker": "Quiz Project for Uni\\Data\\Quiz.cs",
               "ToolTip": "C:\\Users\\mrnik\\source\\repos\\QuizProjectforUni\\Quiz Project for Uni\\Data\\Quiz.cs",
               "RelativeToolTip": "Quiz Project for Uni\\Data\\Quiz.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABoAAAAfAAAAAAAAAA==",
+              "ViewState": "AgIAABEAAAAAAAAAAAAwwBoAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "OverriddenGroupName": "Quiz Project for Uni\\Data",
-              "WhenOpened": "2025-05-12T08:58:20.073Z"
+              "WhenOpened": "2025-05-12T08:58:20.073Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "AddQuiz.cs [Design]",
               "DocumentMoniker": "C:\\Users\\mrnik\\source\\repos\\QuizProjectforUni\\Quiz Project for Uni\\AddQuiz.cs",
               "RelativeDocumentMoniker": "Quiz Project for Uni\\AddQuiz.cs",
               "ToolTip": "C:\\Users\\mrnik\\source\\repos\\QuizProjectforUni\\Quiz Project for Uni\\AddQuiz.cs [Design]",
               "RelativeToolTip": "Quiz Project for Uni\\AddQuiz.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-12T08:52:23.977Z"
+              "WhenOpened": "2025-05-12T08:52:23.977Z",
+              "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 4,
               "Title": "QuizFormat.cs [Design]",
               "DocumentMoniker": "C:\\Users\\mrnik\\source\\repos\\QuizProjectforUni\\Quiz Project for Uni\\QuizFormat.cs",
               "RelativeDocumentMoniker": "Quiz Project for Uni\\QuizFormat.cs",
               "ToolTip": "C:\\Users\\mrnik\\source\\repos\\QuizProjectforUni\\Quiz Project for Uni\\QuizFormat.cs [Design]",
               "RelativeToolTip": "Quiz Project for Uni\\QuizFormat.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-12T08:50:42.634Z"
+              "WhenOpened": "2025-05-12T08:50:42.634Z",
+              "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 2,
               "Title": "LogIn.cs",
               "DocumentMoniker": "C:\\Users\\mrnik\\source\\repos\\QuizProjectforUni\\Quiz Project for Uni\\LogIn.cs",
               "RelativeDocumentMoniker": "Quiz Project for Uni\\LogIn.cs",
               "ToolTip": "C:\\Users\\mrnik\\source\\repos\\QuizProjectforUni\\Quiz Project for Uni\\LogIn.cs",
               "RelativeToolTip": "Quiz Project for Uni\\LogIn.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAAAgwBkAAACGAAAAAAAAAA==",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAQwDcAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "OverriddenGroupName": "Quiz Project for Uni",
               "WhenOpened": "2025-05-11T20:37:04.173Z",
@@ -133,24 +170,25 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 3,
               "Title": "LogIn.cs [Design]",
               "DocumentMoniker": "C:\\Users\\mrnik\\source\\repos\\QuizProjectforUni\\Quiz Project for Uni\\LogIn.cs",
               "RelativeDocumentMoniker": "Quiz Project for Uni\\LogIn.cs",
               "ToolTip": "C:\\Users\\mrnik\\source\\repos\\QuizProjectforUni\\Quiz Project for Uni\\LogIn.cs [Design]",
               "RelativeToolTip": "Quiz Project for Uni\\LogIn.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-11T20:31:50.872Z"
+              "WhenOpened": "2025-05-11T20:31:50.872Z",
+              "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 11,
               "Title": "Register.cs",
               "DocumentMoniker": "C:\\Users\\mrnik\\source\\repos\\QuizProjectforUni\\Quiz Project for Uni\\Register.cs",
               "RelativeDocumentMoniker": "Quiz Project for Uni\\Register.cs",
               "ToolTip": "C:\\Users\\mrnik\\source\\repos\\QuizProjectforUni\\Quiz Project for Uni\\Register.cs",
               "RelativeToolTip": "Quiz Project for Uni\\Register.cs",
-              "ViewState": "AgIAACEAAAAAAAAAAAAowBUAAAA6AAAAAAAAAA==",
+              "ViewState": "AgIAACoAAAAAAAAAAAAowBUAAAA6AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "OverriddenGroupName": "Quiz Project for Uni",
               "WhenOpened": "2025-05-11T19:08:20.834Z",
@@ -158,31 +196,33 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 12,
               "Title": "Register.cs [Design]",
               "DocumentMoniker": "C:\\Users\\mrnik\\source\\repos\\QuizProjectforUni\\Quiz Project for Uni\\Register.cs",
               "RelativeDocumentMoniker": "Quiz Project for Uni\\Register.cs",
               "ToolTip": "C:\\Users\\mrnik\\source\\repos\\QuizProjectforUni\\Quiz Project for Uni\\Register.cs [Design]",
               "RelativeToolTip": "Quiz Project for Uni\\Register.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-11T15:02:23.417Z"
+              "WhenOpened": "2025-05-11T15:02:23.417Z",
+              "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 10,
               "Title": "Person.cs",
               "DocumentMoniker": "C:\\Users\\mrnik\\source\\repos\\QuizProjectforUni\\Quiz Project for Uni\\Data\\Person.cs",
               "RelativeDocumentMoniker": "Quiz Project for Uni\\Data\\Person.cs",
               "ToolTip": "C:\\Users\\mrnik\\source\\repos\\QuizProjectforUni\\Quiz Project for Uni\\Data\\Person.cs",
               "RelativeToolTip": "Quiz Project for Uni\\Data\\Person.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAXAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "OverriddenGroupName": "Quiz Project for Uni\\Data",
-              "WhenOpened": "2025-05-11T15:12:42.322Z"
+              "WhenOpened": "2025-05-11T15:12:42.322Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 9,
               "Title": "AppDbContext.cs",
               "DocumentMoniker": "C:\\Users\\mrnik\\source\\repos\\QuizProjectforUni\\Quiz Project for Uni\\Data\\AppDbContext.cs",
               "RelativeDocumentMoniker": "Quiz Project for Uni\\Data\\AppDbContext.cs",
@@ -190,7 +230,8 @@
               "RelativeToolTip": "Quiz Project for Uni\\Data\\AppDbContext.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-11T15:10:40.032Z"
+              "WhenOpened": "2025-05-11T15:10:40.032Z",
+              "EditorCaption": ""
             }
           ]
         }

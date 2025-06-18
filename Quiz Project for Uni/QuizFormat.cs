@@ -1,4 +1,5 @@
-﻿using System;
+﻿using Quiz_Project_for_Uni.Data;
+using System;
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
@@ -17,9 +18,26 @@ namespace Quiz_Project_for_Uni
             InitializeComponent();
         }
 
+
         private void QuizFormat_Load(object sender, EventArgs e)
         {
 
         }
-    }
+        private void LoadQuestions()
+        {
+            using (var data = new AppDbContext)
+            {
+                var quizes = data.Quizes.ToList();
+
+            }
+        }
+        private void DisplayCurrentQuestion()
+        {
+            if (currentQuestionIndex >= quizes.Count)
+            {
+                MessageBox.Show("Quiz finished! Your score is: ");
+                return;
+            } 
+        
+        }
 }

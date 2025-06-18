@@ -286,3 +286,4 @@ C:\Users\mrnik\source\repos\QuizProjectforUni\Quiz Project for Uni\bin\Debug\net
 C:\Users\mrnik\source\repos\QuizProjectforUni\Quiz Project for Uni\bin\Debug\net8.0-windows\Quiz Project for Uni.pdb
 C:\Users\mrnik\source\repos\QuizProjectforUni\Quiz Project for Uni\obj\Debug\net8.0-windows\Quiz Project for Uni.genruntimeconfig.cache
 C:\Users\mrnik\source\repos\QuizProjectforUni\Quiz Project for Uni\obj\Debug\net8.0-windows\ref\Quiz Project for Uni.dll
+C:\Users\mrnik\source\repos\QuizProjectforUni\Quiz Project for Uni\obj\Debug\net8.0-windows\Quiz_Project_for_Uni.AdminTable.resources

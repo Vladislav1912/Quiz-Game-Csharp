@@ -29,41 +29,16 @@
         private void InitializeComponent()
         {
             dataGridView1 = new DataGridView();
-            Question = new DataGridViewTextBoxColumn();
-            Answers = new DataGridViewTextBoxColumn();
-            CorrectAnswerIndex = new DataGridViewTextBoxColumn();
             ((System.ComponentModel.ISupportInitialize)dataGridView1).BeginInit();
             SuspendLayout();
             // 
             // dataGridView1
             // 
             dataGridView1.ColumnHeadersHeightSizeMode = DataGridViewColumnHeadersHeightSizeMode.AutoSize;
-            dataGridView1.Columns.AddRange(new DataGridViewColumn[] { Question, Answers, CorrectAnswerIndex });
             dataGridView1.Location = new Point(20, 92);
             dataGridView1.Name = "dataGridView1";
             dataGridView1.Size = new Size(643, 162);
             dataGridView1.TabIndex = 0;
-            // 
-            // Question
-            // 
-            Question.FillWeight = 200F;
-            Question.HeaderText = "Question";
-            Question.Name = "Question";
-            Question.Width = 200;
-            // 
-            // Answers
-            // 
-            Answers.FillWeight = 200F;
-            Answers.HeaderText = "Answers";
-            Answers.Name = "Answers";
-            Answers.Width = 200;
-            // 
-            // CorrectAnswerIndex
-            // 
-            CorrectAnswerIndex.FillWeight = 200F;
-            CorrectAnswerIndex.HeaderText = "CorrectAnswerIndex";
-            CorrectAnswerIndex.Name = "CorrectAnswerIndex";
-            CorrectAnswerIndex.Width = 200;
             // 
             // AdminTable
             // 
@@ -81,8 +56,5 @@
         #endregion
 
         private DataGridView dataGridView1;
-        private DataGridViewTextBoxColumn Question;
-        private DataGridViewTextBoxColumn Answers;
-        private DataGridViewTextBoxColumn CorrectAnswerIndex;
     }
 }

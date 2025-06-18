@@ -1,4 +1,5 @@
-﻿using System;
+﻿using Quiz_Project_for_Uni.Data;
+using System;
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
@@ -19,7 +20,13 @@ namespace Quiz_Project_for_Uni
 
         private void AdminTable_Load(object sender, EventArgs e)
         {
-             
+
+            using (var data = new AppDbContext())// using pravi connection s bazata 
+            {
+                var quizes = data.Quizes.ToList();
+                this.dataGridView1.DataSource = quizes;
+            
+            }
         }
     }
 }

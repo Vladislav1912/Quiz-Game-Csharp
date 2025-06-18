@@ -33,7 +33,7 @@ namespace Quiz_Project_for_Uni
             }
 
             
-            using (var context = new AppDbContext())
+            using (var context = new AppDbContext())// using pravi connection s bazata 
             {
                 var user = context.Persons.FirstOrDefault(p => p.Email == LogInEmail.Text);
 
