@@ -50,8 +50,8 @@ namespace Quiz_Project_for_Uni
                 }
 
                 this.Hide();
-                AddQuiz AddQuizForm = new AddQuiz();
-                AddQuizForm.Show();
+                QuizFormat quiz = new QuizFormat();
+                quiz.Show();
                 MessageBox.Show("Success login!");
             }
         }

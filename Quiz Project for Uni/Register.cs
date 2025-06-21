@@ -37,7 +37,9 @@ namespace Quiz_Project_for_Uni
                    context.Persons.Add(newPerson);
                    context.SaveChanges();
                 }
-
+                this.Hide();
+                LogIn login = new LogIn();
+                login.Show();
                 MessageBox.Show("Registration successful!");
             }
         }
