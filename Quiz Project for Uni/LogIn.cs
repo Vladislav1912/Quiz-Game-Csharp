@@ -4,6 +4,7 @@ using System.Linq;
 using System.Security.Cryptography;
 using System.Text;
 using System.Windows.Forms;
+using System.Text.RegularExpressions;
 
 namespace Quiz_Project_for_Uni
 {
@@ -21,8 +22,28 @@ namespace Quiz_Project_for_Uni
                 MessageBox.Show("Enter text in the text boxes!");
                 return;
             }
+            string emailPattern = @"^[^@\s]+@[^@\s]+\.[^@\s]+$";
+            string usernamePattern = @"^[a-zA-Z0-9_]{3,20}$"; 
+            string passwordPattern = @"^.{6,}$";
 
-            
+            if (!Regex.IsMatch(LogInEmail.Text, emailPattern))
+            {
+                MessageBox.Show("Invalid email format!");
+                return;
+            }
+
+            if (!Regex.IsMatch(LogInUsername.Text, usernamePattern))
+            {
+                MessageBox.Show("Username should be 3-20 characters and contain only letters, numbers, or underscores.");
+                return;
+            }
+
+            if (!Regex.IsMatch(LogInPassword.Text, passwordPattern))
+            {
+                MessageBox.Show("Password must be at least 6 characters long.");
+                return;
+            }
+
             if (LogInEmail.Text == "vladko@gmail.com" && LogInPassword.Text == "vladikukata" && LogInUsername.Text == "VladkoPiratko")
             {
                 MessageBox.Show("Admin login successful!");

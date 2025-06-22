@@ -41,8 +41,18 @@ namespace Quiz_Project_for_Uni
 
             if (currentQuestionIndex >= quizes.Count)
             {
-                MessageBox.Show($"Quiz complete! Your score: {score} / {quizes.Count}");
-                this.Close();
+                DialogResult result = MessageBox.Show(
+                    $"Quiz complete! Your score: {score} / {quizes.Count}\n\nClick OK to try again!.",
+                    "Quiz Finished",
+                    MessageBoxButtons.OK,
+                    MessageBoxIcon.Information);
+
+                if (result == DialogResult.OK)
+                {
+                    this.Hide(); 
+                    LogIn login = new LogIn(); 
+                    login.Show();
+                }
 
                 return;
             }
