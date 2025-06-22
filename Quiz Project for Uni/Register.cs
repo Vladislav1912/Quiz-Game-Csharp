@@ -1,4 +1,5 @@
 using Quiz_Project_for_Uni.Data;
+using System.Text.RegularExpressions;
 
 namespace Quiz_Project_for_Uni
 {
@@ -15,8 +16,31 @@ namespace Quiz_Project_for_Uni
             {
                 MessageBox.Show("Enter text in the textboxes!");
             }
+            
             else
             {
+                string emailPattern = @"^[^@\s]+@[^@\s]+\.[^@\s]+$";
+                string usernamePattern = @"^[a-zA-Z0-9_]{3,20}$";
+                string passwordPattern = @"^(?=.*[A-Za-z])(?=.*\d).{6,}$";
+
+                if (!Regex.IsMatch(Email.Text, emailPattern))
+                {
+                    MessageBox.Show("Invalid email format!");
+                    return;
+                }
+
+                if (!Regex.IsMatch(Username.Text, usernamePattern))
+                {
+                    MessageBox.Show("Username must be 3-20 characters long and contain only letters, numbers, or underscores.");
+                    return;
+                }
+
+                if (!Regex.IsMatch(Password.Text, passwordPattern))
+                {
+                    MessageBox.Show("Password must be at least 6 characters long and contain at least one letter and one number.");
+                    return;
+                }
+
                 if (Password.Text != ConfirmPassword.Text)
                 {
                     MessageBox.Show("Passwords dont match!");
@@ -26,16 +50,16 @@ namespace Quiz_Project_for_Uni
                 CreatePasswordHash(Password.Text, out byte[] passwordHash, out byte[] passwordSalt);
                 using (var context = new AppDbContext())
                 {
-                   var newPerson = new Person
-                   {
-                       Name = Username.Text,
-                       Email = Email.Text,
-                       PasswordHash = passwordHash,
-                       PasswordSalt = passwordSalt
-                   };
+                    var newPerson = new Person
+                    {
+                        Name = Username.Text,
+                        Email = Email.Text,
+                        PasswordHash = passwordHash,
+                        PasswordSalt = passwordSalt
+                    };
 
-                   context.Persons.Add(newPerson);
-                   context.SaveChanges();
+                    context.Persons.Add(newPerson);
+                    context.SaveChanges();
                 }
                 this.Hide();
                 LogIn login = new LogIn();
@@ -46,11 +70,11 @@ namespace Quiz_Project_for_Uni
 
         private void CreatePasswordHash(string pass, out byte[] passwordHash, out byte[] passwordSalt)
         {
-                using (var hmac = new System.Security.Cryptography.HMACSHA512())
-                {
-                    passwordSalt = hmac.Key;
-                    passwordHash = hmac.ComputeHash(System.Text.Encoding.UTF8.GetBytes(pass));
-                }
+            using (var hmac = new System.Security.Cryptography.HMACSHA512())
+            {
+                passwordSalt = hmac.Key;
+                passwordHash = hmac.ComputeHash(System.Text.Encoding.UTF8.GetBytes(pass));
+            }
         }
 
         private void linkLabel1_LinkClicked(object sender, LinkLabelLinkClickedEventArgs e)
@@ -59,5 +83,7 @@ namespace Quiz_Project_for_Uni
             LogIn loginForm = new LogIn();
             loginForm.Show();
         }
+
+       
     }
 }
